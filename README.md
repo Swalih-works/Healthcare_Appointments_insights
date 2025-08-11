@@ -1,4 +1,4 @@
-# Hospital Appointments Analysis with Power BI & MySQL
+# Healthcare Appointments Analysis with Power BI & MySQL
 
 ## Project Overview
 
