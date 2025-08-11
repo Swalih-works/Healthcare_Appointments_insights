@@ -1,5 +1,3 @@
-# Healthcare Appointments Analysis with Power BI & MySQL
-
 ## Project Overview
 
 This project analyzes hospital appointment data to uncover trends, patterns, and factors affecting patient attendance. The analysis was performed using **MySQL** for data querying and transformation, and **Power BI** for interactive visualizations.
