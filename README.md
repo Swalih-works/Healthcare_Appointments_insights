@@ -31,14 +31,8 @@ The primary objectives of this analysis were to:
 * Peak booking days occur mid-week, while weekends see fewer appointments.
 
 ---
+## Dashboard
 
-## Files Included
-
-* `Analysis_of_appointments.sql`: SQL queries for data analysis
-* `appointments_report.pbix`: Power BI dashboard file
-* `README.md`: This project documentation
-
----
 
 ## Contact
 
