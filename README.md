@@ -37,7 +37,7 @@ The primary objectives of this analysis were to:
 
 ---
 
-[Project Report](Healthecare_insights.pdf)
+**Click to download** [Project Report](Healthecare_insights.pdf)
 
 ## Contact
 
