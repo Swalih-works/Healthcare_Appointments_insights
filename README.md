@@ -29,12 +29,13 @@ The primary objectives of this analysis were to:
 
 ---
 
-## Dashboard
+## Dashboard - [Download](Files/appointments_report.pbix)
 ![Power BI Dashboard](images/Dashboard.png)
 
 ---
 
-**Click to download** [Project Report](Healthecare_insights.pdf)
+**Click to download** [SQL File](Files/Analysis_of_appointments.sql)
+**Click to download** [Project Report](Files/Healthcare_insights.pdf)
 
 ## Contact
 
