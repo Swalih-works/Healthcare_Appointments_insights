@@ -35,6 +35,7 @@ The primary objectives of this analysis were to:
 ---
 
 **Click to download** [SQL File](Files/Analysis_of_appointments.sql)
+
 **Click to download** [Project Report](Files/Healthcare_insights.pdf)
 
 ## Contact
