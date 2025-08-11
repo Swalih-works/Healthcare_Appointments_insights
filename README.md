@@ -41,5 +41,5 @@ The primary objectives of this analysis were to:
 ## Contact
 
 * **Developed by:** Mohammed Swalih
-* **Email:** swalihkichu00@gmail.com.com
+* **Email:** swalihkichu00@gmail.com
 * **LinkedIn:** [Mohammed Swalih](https://www.linkedin.com/in/mohammed-swalih-977b71219/)
